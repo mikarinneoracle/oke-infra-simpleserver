@@ -7,5 +7,10 @@ metadata:
 spec:
   interval: 30s
   ref:
-    branch: master
-  url: https://github.com/mikarinneoracle/simpleserver
+    branch: main
+  url: https://github.com/mikarinneoracle/oke-infra-simpleserver
+#spec:
+#  interval: 30s
+#  ref:
+#    branch: master
+#  url: https://github.com/mikarinneoracle/simpleserver
